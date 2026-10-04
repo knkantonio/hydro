@@ -47,13 +47,13 @@ die tatsächlichen Projektausgaben abbildet. Die Summe ist dem Budget von ca.
       (bezeichnung: "LED-Growlight", typ: "5 V, 2 A, interner Timer, mit Netzteil", anzahl: 1, quelle: "Amazon", preis: 16.59),
 
       "Mechanischer Aufbau",
-      (bezeichnung: "Rahmen", typ: "Holzbox, vorne offen, aus Holzbrettern selbst gebaut", anzahl: 1, quelle: none, preis: none),
-      (bezeichnung: "Anbaurohr", typ: "Rohr mit Öffnungen für die Netztöpfe", anzahl: 1, quelle: none, preis: none),
-      (bezeichnung: "Rohrbefestigung", typ: "Schraubschelle", anzahl: 2, quelle: none, preis: none),
-      (bezeichnung: "Netztopf", typ: "Pflanzkorb für Hydrokultur", anzahl: 4, quelle: none, preis: none),
-      (bezeichnung: "Reservoir", typ: "Plastikbox", anzahl: 1, quelle: none, preis: none),
-      (bezeichnung: "Elektronikgehäuse", typ: "Plastikbox", anzahl: 1, quelle: none, preis: none),
-      (bezeichnung: "Schlauch", typ: "Förderleitung Pumpe → Rohr", anzahl: 1, quelle: none, preis: none),
+      (bezeichnung: "Rahmen", typ: "Holzbox, vorne offen, aus Holzbrettern selbst gebaut. OSB3-12mm Platten.", anzahl: 1, quelle: "OBI", preis: 17.66),
+      (bezeichnung: "HT-Rohr DN 75, PVC", typ: "Rohr mit Öffnungen für die Netztöpfe", anzahl: 1, quelle: "OBI", preis: 2.89),
+      (bezeichnung: "Rohrbefestigung", typ: "Schraubschelle", anzahl: 2, quelle: "OBI", preis: 2.19),
+      (bezeichnung: "Netztopf", typ: "Pflanzkorb für Hydrokultur", anzahl: 4, quelle: "Amazon", preis: 0.27),
+      (bezeichnung: "Reservoir", typ: "Plastikbox", anzahl: 1, quelle: "vorhanden", preis: 0),
+      (bezeichnung: "Elektronikgehäuse", typ: "Plastikbox & Deckel", anzahl: 1, quelle: "OBI", preis: 2.89),
+      (bezeichnung: "Schlauch 9mm", typ: "Förderleitung Pumpe → Rohr", anzahl: 1, quelle: "OBI", preis: 1.99),
 
       "Pflanzen, Substrat und Nährstoffe",
       (bezeichnung: "Substrat", typ: "Blähton", anzahl: 1, quelle: "vorhanden", preis: 0),
@@ -64,8 +64,6 @@ die tatsächlichen Projektausgaben abbildet. Die Summe ist dem Budget von ca.
   ),
   caption: [Bauteilstückliste des Demonstrators],
 ) <tab-stueckliste>
-
-#todo("Mechanischer Aufbau: Bezugsquelle und Preis je Position (\"vorhanden\" geht auch).")
 
 Das Handheld-Messgerät diente nur als Referenz für die Kalibrierung und ist
 nicht aufgeführt.

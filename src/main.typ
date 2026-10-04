@@ -10,7 +10,7 @@
 	// Ein Eintrag je Gruppenmitglied
 	authors: (
 		(name: "Lyonel Stadthoewer", matnr: 13086),
-		(name: "Antonio Steinhauer", matnr: 00000),
+		(name: "Antonio Steinhauer", matnr: 13413),
 	),
 	programme: "Wirtschaftsinformatik I23c",
 	lecturer: "Haase",
